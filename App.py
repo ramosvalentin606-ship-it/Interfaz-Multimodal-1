@@ -9,7 +9,7 @@ st.write("CLAV GOT MOGGED BY A ASU FRAT LEADER")
 image = Image.open('ARCANGEL_ABUSADOL.jpg')
 st.image(image,caption='Interfaces Multimodales')
 
-TEXTO = ST.TEXT_INPUT('eSCRIbe AlGo')
+TEXTO = st.text_input('eSCRIbe AlGo')
 st.write('eL TexTO EsCRito es',texto)
 
 st.subheader("AHoRa UsARemos DoS CoLUMnas")
