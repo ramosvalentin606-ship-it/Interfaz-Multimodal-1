@@ -42,7 +42,7 @@ with col2:
         imagen2 = Image.open('CHRIS FROM TINDER TEMU.jpeg')
         st.image(imagen2, caption='Modo táctil activado')
 
-st.subheader8"Gombok használata")
+st.subheader"Gombok használata")
 if st.button('nyomja meg a gombot'):
     st.write('Köszönöm a nyomást')
 else:
