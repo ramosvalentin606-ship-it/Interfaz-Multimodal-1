@@ -6,17 +6,17 @@ st.title("CHRIS FROM TINDER HAS AWAKEN")
 st.header("Esta pagina es de prueba para FRAMEMOGGING")
 st.write("CLAV GOT MOGGED BY A ASU FRAT LEADER")
 
-# Mostrar primera imagen
+
 image = Image.open('ARCANGEL_ABUSADOL.jpg')
 st.image(image, caption='Interfaces Multimodales')
 
-# Input de texto
+
 texto = st.text_input('eSCRIbe AlGo')
 st.write('eL TexTO EsCRito es:', texto)
 
 st.subheader("AHoRa UsARemos DoS CoLUMnas")
 
-# Crear columnas
+
 col1, col2 = st.columns(2)
 
 with col1:
@@ -41,3 +41,9 @@ with col2:
         st.write('Az érintés elengedhetetlen a kezelőfelületben')
         imagen2 = Image.open('CHRIS FROM TINDER TEMU.jpeg')
         st.image(imagen2, caption='Modo táctil activado')
+
+st.subheader8"Gombok használata")
+if st.button('nyomja meg a gombot'):
+    st.write('Köszönöm a nyomást')
+else:
+    st.write('PRESIONA EL BOTON')
