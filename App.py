@@ -6,5 +6,5 @@ st.title("CHRIS FROM TINDER HAS AWAKEN")
 st.header("Esta pagina es de prueba para FRAMEMOGGING")
 st.write("CLAV GOT MOGGED BY A ASU FRAT LEADER")
 
-image = Image.open('CHRIS FROM TINDER TEMU.jpeg')
+image = Image.open('ARCANGEL_ABUSADOL.jpg')
 st.image(image,caption='Interfaces Multimodales')
