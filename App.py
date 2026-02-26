@@ -1,5 +1,5 @@
 import streamlit as st
-from PTL import image
+from PTL import Image
 
 st.title("CHRIS FROM TINDER HAS AWAKEN")
 
