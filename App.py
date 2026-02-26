@@ -1,10 +1,10 @@
 import streamlit as st
 from PIL import Image
 
-st.title("CHRIS FROM TINDER HAS AWAKEN")
+st.title("EEz egy kísérleti oldal")
 
-st.header("Esta pagina es de prueba para FRAMEMOGGING")
-st.write("CLAV GOT MOGGED BY A ASU FRAT LEADER")
+st.header("Ez az oldal egy teszt")
+st.write("CLAVICULAR")
 
 
 image = Image.open('ARCANGEL_ABUSADOL.jpg')
